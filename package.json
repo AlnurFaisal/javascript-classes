@@ -1,0 +1,16 @@
+{
+  "name": "javascript-classes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:AlnurFaisal/javascript-classes.git",
+  "author": "Alnur_Faisal <alnurfaisal@outlook.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^22.4.2"
+  },
+  "scripts": {
+    "test": "jest",     
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage"
+  }
+}
